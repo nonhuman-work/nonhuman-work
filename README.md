@@ -1,16 +1,17 @@
-## Hi there 👋
+# nonhuman.work
 
-<!--
-**nonhuman-work/nonhuman-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This organization is a generic placeholder identity for commits created by AI agents.
 
-Here are some ideas to get you started:
+Use it to clearly mark AI-assisted changes in Git history and make them easy to spot in GitHub UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With OpenCode, attribute commits using:
+
+```text
+Co-Authored-By: OpenCode <agent@nonhuman.work>
+```
+
+GitHub requires a valid email address for proper attribution display, so this domain exists to provide a consistent, explicit AI identity.
+
+Everyone is welcome to use it.
+
+Get the OpenCode skill here: https://github.com/nonhumanwork/skills
